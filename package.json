@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.1",
+    "chart.js": "^4.3.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-circular-progressbar": "^2.1.0",
+    "react-icons": "^4.10.1",
+    "recharts": "^2.7.2"
+  }
+}

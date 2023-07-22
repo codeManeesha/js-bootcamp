@@ -1,0 +1,36 @@
+.icon{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    font-size: x-large;
+    color: blue;
+    
+}
+.middle{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    font-size: x-large;
+    color: blue;
+ 
+}
+.bottom{
+    display:flex;
+    flex-direction: column;
+    margin: 10px;
+    font-size: x-large;
+    color: blue;
+ 
+}
+
+@media screen and (max-width: 599px) {
+ .icon{
+    display: none;
+ }
+
+}

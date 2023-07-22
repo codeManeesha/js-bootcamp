@@ -1,0 +1,50 @@
+.container{
+    
+    margin-top: 10px;
+    margin-left: 30px;
+    width:20vw;
+}
+.main{
+   
+    height:60vh;
+    width:18vw;
+    margin-top: 20px;
+    margin-left:12px;
+    background-color:  rgb(250, 245, 245);
+    border-radius: 10px;
+    padding:5px;
+   
+}
+.bottom{
+    margin-left: 20px;
+}
+.slider{
+    margin-left:20px;
+}
+.button{
+    margin-left: 70px;
+}
+p{
+    margin-left: 60px;
+    color: blue;
+}
+.int{
+   color: grey; 
+}
+h6{
+    color: blue;
+}
+.line{
+    border-left: 6px solid green;
+    height: 50px;
+}
+@media screen and (max-width: 599px) {
+
+    .main{
+        width: 74vw;
+        margin-left: 0px;
+    }
+    .bottom{
+        display: none;
+    }
+}
